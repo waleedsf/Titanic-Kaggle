@@ -1,1 +1,2 @@
-# my-Titanic-sumbation---Kaggle
+Nothing special just learning - sumbit2
+1013 out 13,000
